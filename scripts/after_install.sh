@@ -6,9 +6,8 @@ cd /home/ubuntu/xmas-react
 # install dependencies
 npm install
 
-# install create-react-app and react-scripts
-# without react-scripts application cannot be started
-npm install --save create-react-app react-scripts
+# install react stuff
+npm install --save react-scripts react react-dom
 
 # install pm2 process manager
 npm install pm2 -g
